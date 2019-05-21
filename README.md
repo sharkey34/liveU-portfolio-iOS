@@ -2,6 +2,17 @@
 
 Live U is an application that connects local Artists and Venues. The purpose of the application is to reduce the time and money associated with finding quality local acts to play at the Venue.
 
+## Screenshots ##
+
+Login                                         |  Artist Profile                                        | Venue Profile
+:--------------------------------------------:|:------------------------------------------------------:|:--------------------:
+<img src="Screenshots/Login.png" width="200"> | <img src="Screenshots/ArtistProfile.png" width="200">  | <img src="Screenshots/VenueProfile.png" width="200">
+
+
+Posted Gigs                                        |  Post Details                                       | Applied Artists
+:-------------------------------------------------:|:---------------------------------------------------:|:------------------:
+<img src="Screenshots/PostedGigs.png" width="200"> | <img src="Screenshots/PostDetails.png" width="200"> | <img src="Screenshots/AppliedArtists.png" width="200">
+
 ### Prerequisites
 
 Xcode 9+
