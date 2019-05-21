@@ -1,6 +1,6 @@
 # Live U
 
-Live U is an application that connects local Artists and Venues with focus on local student artists. The purpose of the application is to reduce the time and money associated with finding quality local acts to play at the Venue.
+Live U is an application that connects local Artists and Venues with a focus on local student artists. The purpose of the application is to reduce the time and money associated with finding quality local acts to play at the Venue.
 
 ## Screenshots ##
 
