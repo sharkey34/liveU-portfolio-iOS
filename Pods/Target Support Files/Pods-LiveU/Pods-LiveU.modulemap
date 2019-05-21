@@ -1,0 +1,6 @@
+framework module Pods_LiveU {
+  umbrella header "Pods-LiveU-umbrella.h"
+
+  export *
+  module * { export * }
+}
